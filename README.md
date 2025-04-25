@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Efekan 👋</h1>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Ayang.;A+Front-End+Developer.;An+Open+Source+Contributor.;A+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Efekan.;A+Software+Developer.;Embedded+Systems.;Android+App+Creator.;AI+and+Machine+Learning+Explorer.;Passionate+about+Technology.)](https://git.io/typing-svg)
 
 
 <p align="center">
