@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Software+Developer;Embedded+Systems+Enthusiast;Android+App+Creator;AI+and+Machine+Learning+Explorer;Passionate+about+Technology" alt="Typing SVG" />
 </p>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/efekannn5/efekannn5/main/neon_particles_background.gif" alt="Neon Particles Background" width="100%" />
