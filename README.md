@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Efekan.;A+Software+Developer.;Embedded+Systems.;Android+App+Creator.;AI+and+Machine+Learning+Explorer.;Passionate+about+Technology.)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/efekannn5/efekannn5/main/neon_particles_background.gif" alt="Neon Particles Background" width="100%" />
-</p>
 
 ---
 
